@@ -9,7 +9,7 @@
   ],
   "moduleType": "global",
   "dependencies": {
-    "bn.js": ">=4.11.6"
+    "bn.js": "git+https://github.com/sangramsam/bn.js"
   },
   "repository": {
     "type": "git",
